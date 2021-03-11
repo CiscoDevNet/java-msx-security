@@ -1,0 +1,4 @@
+# auto-configuration
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.cisco.msx.autoconfigure.MsxSecurityAutoConfiguration,\
+com.cisco.msx.autoconfigure.MsxIntegrationAutoConfiguration
