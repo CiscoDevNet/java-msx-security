@@ -14,7 +14,7 @@ import org.springframework.validation.annotation.Validated;
 @Validated
 public class IntegrationSecurityProperties {
 
-    public static final String DEFAULT_AUTH_SERVICE_NAME = "usermanagementservice";
+    public static final String DEFAULT_AUTH_SERVICE_NAME = "usermanagementservice-go";
     public static final String DEFAULT_AUTH_SERVICE_CONTEXT_PATH = "/idm";
 
     public static final String DEFAULT_CHECK_TOKEN_PATH = "/v2/check_token";
